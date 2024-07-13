@@ -97,5 +97,4 @@ json_date =json.dumps(dic)
 print(json_date)
 print(type(json_date))
 
-new data
 
