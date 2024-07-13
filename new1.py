@@ -8,7 +8,7 @@ number1 =[1,2,3]
 number2 =[4,5,6]
 result = map(lambda x,y : x+y,number1,number2)
 print(list(result))
-
+ffff
 import os
 
 f = open('demo.txt','w')
